@@ -1,0 +1,13 @@
+body {
+	background-image: url(../images/biking.jpg);
+}
+
+p {
+	font-family: 'Bungee', cursive;
+	color: red;
+	padding-bottom: 10px;
+}
+
+nav li {
+	padding-bottom: 10px;
+}
